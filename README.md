@@ -1,2 +1,2 @@
 # Frisbee-Flight-Model
-Project About Modelling the Trajectory of a Frisbee and Answering Physics Questions
+Project About Modelling the Trajectory of a Frisbee and Answering Physics Questions (Academic)
